@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/micha/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Segundo semestre/Repaso/primes/main.cpp
+iostream
+-
+

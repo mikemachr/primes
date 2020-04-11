@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/primes.dir/main.cpp.o  -o primes.exe -Wl,--out-implib,libprimes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
