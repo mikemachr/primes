@@ -29,8 +29,6 @@ void printer(int array[], int size){
 }
 int main() {
     int nPrimes=1000,array[nPrimes],position=0;
-    //cout<<isItPrime(4)<<endl;
-
     for (int i = 0; i <nPrimes; ++i) {
         if(isItPrime(i)){
             array[position]=i;
