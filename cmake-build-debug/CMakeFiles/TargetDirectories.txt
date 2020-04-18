@@ -1,3 +1,0 @@
-/cygdrive/c/Users/micha/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Segundo semestre/Repaso/primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/micha/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Segundo semestre/Repaso/primes/cmake-build-debug/CMakeFiles/primes.dir
-/cygdrive/c/Users/micha/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Segundo semestre/Repaso/primes/cmake-build-debug/CMakeFiles/edit_cache.dir
